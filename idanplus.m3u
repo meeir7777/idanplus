@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Arutz20" tvg-name="Arutz20" tvg-country="IL" tvg-language="he" tvg-logo="http://thumbs2.imagebam.com/aa/8b/9f/fe51a9784877423.jpg" group-title="idan plus",ערוץ 20
+https://stream.ch20-cdnwiz.com/dvr.ch20-cdnwiz.com/hls/live_1080/index.m3u8
+#EXTINF:-1 tvg-id="kan black" tvg-name="kan black" tvg-country="IL" tvg-language="he" tvg-logo="https://i.imgur.com/SBeqbv0.png" group-title="idan plus",כאן 11
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/master.m3u8
+#EXTINF:-1 tvg-id="12keshet" tvg-name="12keshet" tvg-country="IL" tvg-language="he" tvg-logo="http://images2.imagebam.com/3b/9c/29/accd2c784878043.jpg" group-title="idan plus",קשת 12
+https://iptv--iptv.repl.co/Hebrew/keshet_12
+#EXTINF:-1 tvg-id="13reshet" tvg-name="13reshet" tvg-country="IL" tvg-language="he" tvg-logo="http://thumbs2.imagebam.com/bc/ad/be/19f5c9784877383.jpg" group-title="idan plus",רשת 13
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
+#EXTINF:-1 tvg-id="can hinuhit" tvg-name="can hinuhit" tvg-country="IL" tvg-language="he" tvg-logo="http://images2.imagebam.com/de/cc/c9/4c7f3e788799523.png" group-title="",23 חינוכית
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_1.8k/chunklist.m3u8
+#EXTINF:-1 tvg-id="kneset" tvg-name="kneset" tvg-country="IL" tvg-language="he" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnihI34u_uI888nfYeu5QIgZDdyqEGdiQ6gW6PNU3A=s900-c-k-c0x00ffffff-no-rj" group-title="idan plus",ערוץ הכנסת
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="24" tvg-country="IL" tvg-language="he" tvg-logo="https://i.imgur.com/2RC8nh6.jpg" group-title="idan plus",ערוץ 24
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8
+#EXTINF:-1 tvg-id="channal 9" tvg-name="channal 9" tvg-country="IL" tvg-language="he" tvg-logo="https://upload.wikimedia.org/wikipedia/he/0/0b/Arutz_9_Logo.png" group-title="",ערוץ 9
+http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1 tvg-id="hidabroot" tvg-name="hidabroot" tvg-country="IL" tvg-language="he" tvg-logo="https://i.imgur.com/wKi97Pg.png" group-title="Religious",ערוץ הידברות
+https://stream5.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="shopping" tvg-name="shopping" tvg-country="IL" tvg-language="he" tvg-logo="https://upload.wikimedia.org/wikipedia/he/b/b9/סמליל_ערוץ_הקניות.jpg" group-title="Shop",21 ערוץ הקניות
+https://shoppingil-rewriter.vidnt.com/video_720p_1000008812.m3u8ץ
